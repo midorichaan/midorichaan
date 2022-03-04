@@ -8,4 +8,4 @@ Lang    - Python, Java
 Twitter - [https://twitter.com/Midorichaan2525](https://twitter.com/Midorichaan2525)  
 Discord - Midorichan#3451  
 Live in - Japan, Osaka  
-Contact - none
+Contact - midorichan@midorichan.cf
