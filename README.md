@@ -2,10 +2,10 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=midorichaan)
 
 ## About Me
-I'm high school student developer | Creator of [midori-discordbot](https://discord.com/oauth2/authorize?client_id=689857955075457079&scope=bot)  
+High school student developer | Last JK
   
 Lang    - Python, Java  
 Twitter - [https://twitter.com/Midorichaan2525](https://twitter.com/Midorichaan2525)  
 Discord - Midorichan#3451  
 Live in - Japan, Osaka  
-Contact - midorichan@midorichan.cf
+Contact - furandorusukaret.jp@gmail.com | midorichan@midorichan.cf
