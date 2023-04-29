@@ -2,7 +2,7 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=midorichaan)
 
 ## About Me
-High school student developer | Last JK
+Academic student developer | First JD
   
 Lang    - Python, Java  
 Twitter - [https://twitter.com/Midorichaan2525](https://twitter.com/Midorichaan2525)  
