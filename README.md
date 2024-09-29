@@ -2,10 +2,10 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=midorichaan)
 
 ## About Me
-Academic student developer | First JD
+Academic student developer
   
 Lang    - Python, Java  
 Twitter - [https://twitter.com/Midorichaan2525](https://twitter.com/Midorichaan2525)  
-Discord - Midorichan#3451  
+Discord - midorichan25  
 Live in - Japan, Osaka  
-Contact - furandorusukaret.jp@gmail.com | midorichan@midorichan.net
+Contact - midorichan@midorichan.net
