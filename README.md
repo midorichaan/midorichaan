@@ -5,7 +5,7 @@
 Academic student developer
   
 Lang    - Python, Java  
-Twitter - [https://twitter.com/Midorichaan2525](https://twitter.com/Midorichaan2525)  
+Twitter - [https://twitter.com/m1dori_otaku](https://twitter.com/m1dori_otaku)  
 Discord - midorichan25  
-Live in - Japan, Osaka  
+Live in - Japan, Kansai  
 Contact - midorichan@midorichan.net
